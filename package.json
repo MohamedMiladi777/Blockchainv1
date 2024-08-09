@@ -1,0 +1,23 @@
+{
+  "name": "blockchain",
+  "version": "1.0.0",
+  "description": "ProjectV1-Blockchain",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MohamedMiladi777/Blockchainv1.git"
+  },
+  "author": "Mohamed Miladi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MohamedMiladi777/Blockchainv1/issues"
+  },
+  "homepage": "https://github.com/MohamedMiladi777/Blockchainv1#readme",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^5.0.0",
+    "hardhat": "^2.22.8"
+  }
+}
